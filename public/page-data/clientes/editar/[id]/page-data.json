@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-clientes-editar-[id]-js",
+    "path": "/clientes/editar/[id]/",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": ["1258111702","3145155756"],
+    "matchPath": "/clientes/editar/:id"}

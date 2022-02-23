@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-clientes-[id]-js",
+    "path": "/clientes/[id]/",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": ["1258111702","3145155756"],
+    "matchPath": "/clientes/:id"}
