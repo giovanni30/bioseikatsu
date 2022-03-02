@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://localhost:9000/sitemap/sitemap-index.xml
-Host: localhost:9000
+Sitemap: https://www.bioseikatsu.com/sitemap/sitemap-index.xml
+Host: https://www.bioseikatsu.com
