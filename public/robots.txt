@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.bioseikatsu.com/sitemap/sitemap-index.xml
-Host: https://www.bioseikatsu.com
+Sitemap: https://bioseikatsu.com/sitemap/sitemap-index.xml
+Host: https://bioseikatsu.com
